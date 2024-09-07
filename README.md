@@ -20,3 +20,5 @@ MIT
 This word is **bold**
 
 This word is *italic*
+
+**`Some text`**
