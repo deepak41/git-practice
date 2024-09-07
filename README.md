@@ -18,3 +18,5 @@ Navigate to http://localhost:5000
 MIT
 
 This word is **bold**
+
+This word is *italic*
