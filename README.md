@@ -24,3 +24,5 @@ This word is *italic*
 **`Some text`**
 
 <b>fooo</b>
+
+***By adding three asterisks on each side of the text, the text will be displayed as bold and italisized.***
